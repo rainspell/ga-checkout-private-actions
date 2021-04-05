@@ -1,7 +1,7 @@
 name: Checkout private actions
 description: GitHub action to checkout private actions.
 runs:
-  using: node14
+  using: node12
   main: dist/index.js
 inputs:
   actions:
