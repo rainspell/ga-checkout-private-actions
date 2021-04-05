@@ -18,7 +18,7 @@ jobs:
   ci:
     runs-on: ubuntu-latest
     steps:
-    - uses: rainspell/ga-checkout-private-actions@v0.1.0
+    - uses: rainspell/ga-checkout-private-actions@v0.2.0
       with:
         # List of private actions to clone. Must be an array where each entry matches `owner/repo@ref` format.
         # Type: string[]
