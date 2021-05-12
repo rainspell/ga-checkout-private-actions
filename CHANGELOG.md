@@ -1,7 +1,13 @@
 # Changelog
 
+## 1.1.0
+Wed, 12 May 2021 16:26:58 GMT
+
+### Improvements
+- Fix major release tags
+
 ## 1.0.0
-Wed, 12 May 2021 15:41:13 GMT
+Wed, 12 May 2021 15:41:14 GMT
 
 ### Breaking changes
 - Bump major version
